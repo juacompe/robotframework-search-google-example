@@ -1,6 +1,13 @@
 Robot Framework Example for Searching Scrum Alliance in Google
 ====
 
+Setup Development Environment
+----
+
+```
+pip install -r requirements.txt
+```
+
 The scenario is as below:
 
 ```
